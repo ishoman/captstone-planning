@@ -5,7 +5,10 @@ import Home from './Home';
 
 const App = () => (
   <Router>
-    <Route path="/" component={Home} />
+    <div>
+      <Route exact path="/" component={Home} />
+      <Route path="/about" render={() => <h1>About</h1>} />
+    </div>
   </Router>
 );
 
