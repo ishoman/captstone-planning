@@ -15,10 +15,11 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 1. NPM
 2. ReactJS
 3. Redux-React
-4. React-Router.
+4. React-Router
 5. CSS
-6. Sketch (for Wireframing)
+6. Sketch
 7. JavaScript
+8. Ruby? (Will research incorporating a basic database for storing product data)
 
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
@@ -31,6 +32,7 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 1. Google Analytics
+2. If I am able to, I would like to create a basic database in Ruby and create my own api call to retrieve product data.
 
 Is there anything else you’d like your instructor to know?
 
