@@ -35,7 +35,7 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 2. If I am able to, I would like to create a basic database in Ruby and create my own api call to retrieve product data.
 
 Is there anything else you’d like your instructor to know?
-
+wef
 The website will be fairly basic, as that's what the client asked for. So I will focus on making my code as dry as possible while implementing industry best practices.
 
 
