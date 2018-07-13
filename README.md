@@ -41,4 +41,5 @@ The website will be fairly basic, as that's what the client asked for. So I will
 
 ## Research Done Today (7/13/18)
 
-Intro to create-react-app: https://www.youtube.com/watch?v=eCz3rhsDG5s
+- Intro to create-react-app: https://www.youtube.com/watch?v=eCz3rhsDG5s
+- Watched max amount of allowed egghead.io videos on implementing react-router into CRA project
