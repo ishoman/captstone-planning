@@ -37,3 +37,8 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 Is there anything else you’d like your instructor to know?
 
 The website will be fairly basic, as that's what the client asked for. So I will focus on making my code as dry as possible while implementing industry best practices.
+
+
+## Research Done Today (7/13/18)
+
+Intro to create-react-app: https://www.youtube.com/watch?v=eCz3rhsDG5s

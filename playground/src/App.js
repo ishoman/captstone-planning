@@ -1,12 +1,13 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
-console.log(BrowserRouter);
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import Home from './Home';
 
-function App() {
-  return (
-    <h1>Hello World!</h1>
-  )
-}
+
+const App = () => (
+  <Router>
+    <Route path="/" component={Home} />
+  </Router>
+);
 
 
 export default App;
