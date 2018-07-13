@@ -43,3 +43,4 @@ The website will be fairly basic, as that's what the client asked for. So I will
 
 - Intro to create-react-app: https://www.youtube.com/watch?v=eCz3rhsDG5s
 - Watched max amount of allowed egghead.io videos on implementing react-router into CRA project
+- Read https://medium.com/@adamrackis/composing-reusable-components-in-react-de44d862fe5a for more info on  reusable components
