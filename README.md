@@ -45,3 +45,4 @@ The website will be fairly basic, as that's what the client asked for. So I will
 - Watched max amount of allowed egghead.io videos on implementing react-router into CRA project
 - Read https://medium.com/@adamrackis/composing-reusable-components-in-react-de44d862fe5a for more info on  reusable components
 - Research react-collapse (https://www.npmjs.com/package/react-collapse) as I will have many collapsing elements on my page
+- Read article on deploying create-react-app https://medium.com/@timmykko/deploying-create-react-app-with-nginx-and-ubuntu-e6fe83c5e9e7
